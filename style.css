@@ -1,0 +1,11 @@
+.row {
+    margin-bottom: 2rem;
+}
+
+.progress-bar {
+    transition: width 0.05s linear;
+}
+
+.container {
+    margin-top: 3rem;
+}
